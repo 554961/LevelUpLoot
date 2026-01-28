@@ -12,6 +12,7 @@
     <style>
         form
         {
+            width:100%;
             display:block;
             padding-left:25%;
             padding-right:25%;

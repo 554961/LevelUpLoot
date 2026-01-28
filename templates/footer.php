@@ -9,6 +9,7 @@
 
     .payments
     {
+        width:25%;
         display:block;
         margin:auto;
         padding-top:10px;
