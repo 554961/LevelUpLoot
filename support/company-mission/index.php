@@ -12,8 +12,5 @@
 <body>
     <!-- get navbar -->
     <?php require_once $_SERVER["DOCUMENT_ROOT"] . '\leveluploot\templates\navbar.php' ?>
-
-        <!-- get footer -->
-    <?php require_once $_SERVER["DOCUMENT_ROOT"] . '\leveluploot\templates\footer.php' ?>
 </body>
 </html>

@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>register</title>
+    <title>Register</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"></head>
     <style>
         form
@@ -33,7 +33,7 @@
         </div>
         
         <div class="form-group">
-            <button type="submit">Submit</button>
+            <button type="submit">Register</button>
         </div>
     </form>
     
