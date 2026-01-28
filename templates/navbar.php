@@ -1,6 +1,17 @@
+<style>
+    .gradient-text 
+    {
+    background: linear-gradient(90deg, #ff6a00, #ee0979);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text; /* for newer browsers */
+    }
+
+</style>
+
 <nav class="navbar navbar-inverse" style="background: linear-gradient(315deg, #8358B2, #BC63FF);">
     <div class="container-fluid">
-        <div class="navbar-header">            
+        <div class="navbar-header" >            
             <a class="navbar-brand" href="/leveluploot/"><img src="/leveluploot/images/logo.png" style="width:70px; height:auto;" alt="website logo"></a>
         </div>
         <ul class="nav navbar-nav">

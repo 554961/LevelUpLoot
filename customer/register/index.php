@@ -13,15 +13,15 @@
         form
         {
             display:block;
-            padding-left:20px;
-            padding-right:50%;
+            padding-left:25%;
+            padding-right:25%;
         }
     </style>
 <body>
     <!-- get navbar -->
     <?php require_once $_SERVER["DOCUMENT_ROOT"] . '\leveluploot\templates\navbar.php' ?>
 
-    <h2 class="alert alert-info" style="margin-right:25%; margin-left:25%; text-align:center;">Register Here</h2>
+    <h2 class="alert alert-info" style="text-align:center;">Register Here</h2>
     <form method="POST">
         <div class="form-group">
             <label>Email:</label>
@@ -30,6 +30,10 @@
         <div class="form-group">
             <label>Password:</label>
             <input type="password" name="password" class="form-control">
+        </div>
+
+        <div class="form-group">
+            <button type="submit">Submit</button>
         </div>
     </form>
 
